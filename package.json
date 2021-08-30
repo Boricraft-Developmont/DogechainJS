@@ -1,6 +1,6 @@
 {
-  "name": "dogechainjs",
-  "version": "1.0.0",
+  "name": "@boricraft-development/dogechainjs",
+  "version": "1.0.2",
   "description": "Api wrapper for Dogechain api",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,13 @@
   "license": "GPL-3.0",
   "dependencies": {
     "axios": "^0.21.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boricraft-Developmont/DogechainJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Boricraft-Developmont/DogechainJS/issues"
+  },
+  "homepage": "https://github.com/Boricraft-Developmont/DogechainJS#readme"
 }
